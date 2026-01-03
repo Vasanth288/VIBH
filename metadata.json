@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VIBH - Academic Teaching Assistant",
+  "description": "A dedicated academic teaching assistant that provides clear, teacher-style notes and step-by-step solutions for students across various subjects.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
